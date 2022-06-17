@@ -1,0 +1,6 @@
+basic.showString("HOLA Mundo ")
+basic.showIcon(IconNames.Heart)
+basic.showNumber(3)
+basic.showNumber(2)
+basic.showNumber(1)
+basic.showNumber(0)
